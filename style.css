@@ -1,0 +1,22 @@
+.botonAuto{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.botones{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.venta{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5%;
+    margin: 5%;
+}
+
+body{
+    background-color:aquamarine;
+}
